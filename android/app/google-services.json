@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17683619217",
+    "project_id": "tour-9ja",
+    "storage_bucket": "tour-9ja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17683619217:android:33ee97897ff2200a3b8e30",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddkJJAuBZhmN7plwgTMiGI2d0Hi4aQok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17683619217:android:41c2d8eff089e1f73b8e30",
+        "android_client_info": {
+          "package_name": "com.mycompany.tour9ja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddkJJAuBZhmN7plwgTMiGI2d0Hi4aQok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
